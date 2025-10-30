@@ -16,7 +16,7 @@ The **Superstore Sales Dashboard** provides insights into:
 
 ---
 
-## 🖼️ Dashboard Preview
+## Dashboard Preview
 
 <img width="1029" height="662" alt="Screenshot 2025-10-30 at 12 08 09" src="https://github.com/user-attachments/assets/3d8f82b6-898b-46dc-ac62-5f04d88710ed" />
 
@@ -61,17 +61,17 @@ The **Superstore Sales Dashboard** provides insights into:
 
 ---
 
-## 📁 How to Explore
+## How to Explore
 
 1. Download `Superstore_Dashboard.xlsx`
 2. Open in Excel (enable editing)
 3. Interact using slicers and filters for Region, Category, and Segment
 
-> 🛡️ This repository is for **showcase only** — files are read-only on GitHub but can be downloaded for learning.
+> This repository is for **showcase only** — files are read-only on GitHub but can be downloaded for learning.
 
 ---
 
-## 📚 Data Source
+## Data Source
 
 > **Acknowledgement**
 > Dataset originally obtained from **Kaggle**:
@@ -85,7 +85,7 @@ The **Superstore Sales Dashboard** provides insights into:
 
 ---
 
-## 📬 Contact
+## Contact
 
 Created by **[Moneteer](https://github.com/moneteer808-oss)**
 For feedback or collaboration, feel free to reach out via GitHub Issues.
