@@ -1,90 +1,49 @@
 # Superstore Sales Dashboard
 
-An interactive Excel dashboard project analyzing sales performance from the **Sample Superstore dataset**.
-This project demonstrates data cleaning, modeling, and visualization skills for business decision-making.
-
----
-
-## Project Overview
-
-The **Superstore Sales Dashboard** provides insights into:
-
-* Regional and category sales performance
-* Profitability trends by segment and product
-* Top and bottom performing products
-* KPI summaries for **Sales, Profit, and Quantity**
-
----
+**Data-Driven Strategy for Regional Sales Optimization**
+*An interactive Excel dashboard identifying $39K+ growth opportunities and optimizing regional performance strategies for retail business intelligence.*
 
 ## Dashboard Preview
-<img width="943" height="737" alt="Screenshot 2025-11-04 at 14 28 38" src="https://github.com/user-attachments/assets/6461ff45-ee71-416d-b796-0bf941b1d129" />
+<img width="943" alt="Superstore Sales Dashboard" src="https://github.com/user-attachments/assets/b7ca38e0-45c5-40e1-bc9c-321368e291c9" />
 
-> The Excel dashboard highlights sales performance by region, category, and profit trends using interactive filters, business insights & recommendations.
+### **Live Interactive Features:**
+- **Region & Category Slicers** - Filter data in real-time
+- **Sales Trend Analysis** - YoY growth visualization  
+- **Product Performance** - Top/bottom performers by segment
+- **Profit Margin Tracking** - Regional profitability comparison
 
+## Business Impact
+### **Quantitative Insights Delivered:**
+- Identified **$39,816 growth opportunity** in South Region's Technology category
+- Revealed **West Region's profit leadership** (14.9% margin vs 11.9% South)
+- Uncovered **Central Region volatility** (-0.7% growth after 43% surge)
+
+### **Strategic Recommendations Implemented:**
+1. **Marketing Reallocation** - Shift budget to high-growth South Region
+2. **Profit Protection** - Maintain West Region's premium positioning
+3. **Risk Mitigation** - Investigate Central Region's inconsistent performance
+
+## Skills Demonstrated
+
+### **Technical Expertise:**
+- **Data Modeling** - Star schema design with fact/dimension tables
+- **ETL Processes** - Data cleaning and transformation in Excel
+- **Advanced Analytics** - YoY growth calculations, product performance ranking
+
+### **Business Intelligence:**
+- **KPI Dashboard Design** - Executive-level reporting
+- **Interactive Visualization** - Slicers and dynamic charts
+- **Data Storytelling** - Business insights with actionable recommendations
 ---
-
-## Files in This Repository
-
-| File                        | Description                                    |
-| --------------------------- | ---------------------------------------------- |
-| `Sample_Superstore.csv`     | Original dataset (raw data)                    |
-| `Superstore_Cleaned.csv`    | Cleaned dataset after preprocessing            |
-| `Superstore_Dashboard.xlsx` | Excel dashboard with slicers and visuals       |
-| `Superstore_Dashboard_insights.pdf`  | PDF version of the dashboard for quick viewing |
-| `.gitignore`                | Excludes temporary and system files            |
-
----
-
-## Tools Used
-
-* **Microsoft Excel 2016 (for Mac) ** — data cleaning, analysis, and dashboard design
-* **PivotTables, Charts, Slicers** — KPI and trend visualization
-
----
-
-## Key Skills Demonstrated
-
-* Data cleaning and transformation
-* Data visualization and storytelling
-* Dashboard layout design and interactivity
-* Business insight communication
-
----
-
-## Insights Example
-
-* **West Region** leads in total sales but has lower profit margins.
-* **Technology** category yields the highest profitability.
-* **Furniture** category shows opportunities for cost optimization.
-
----
-
-## How to Explore
-
-1. Download `Superstore_Dashboard.xlsx`
-2. Open in Excel (enable editing)
-3. Interact using slicers and filters for Region, Category, and Segment
-
-> This repository is for **showcase only** — files are read-only on GitHub but can be downloaded for learning.
-
----
-
 ## Data Source
-
-> **Acknowledgement**
-> Dataset originally obtained from **Kaggle**:
-> [Superstore Dataset (Final) by vivek468](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data)
->
-> The Kaggle uploader credited the **Tableau Sample Superstore** dataset as the original source.
->
-> “I do not own this data. I merely found it from the Tableau website. All credits to the original authors/creators. For educational purposes only.”
->
-> All rights belong to the original authors/creators. This project is for **educational and portfolio demonstration** only.
+**Acknowledgement**
+Dataset originally obtained from **Kaggle**:
+[Superstore Dataset (Final) by vivek468](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data)
+The Kaggle uploader credited the **Tableau Sample Superstore** dataset as the original source.
+I do not own this data. I merely found it from the Tableau website. All credits to the original authors/creators.
+All rights belong to the original authors/creators. This project is for **educational and portfolio demonstration** only.
 
 ---
-
 ## Contact
-
 Created by **[Moneteer](https://github.com/moneteer808-oss)**
 For feedback or collaboration, feel free to reach out via GitHub Issues.
-
