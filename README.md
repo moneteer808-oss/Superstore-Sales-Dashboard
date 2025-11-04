@@ -17,11 +17,11 @@ The **Superstore Sales Dashboard** provides insights into:
 ---
 
 ## Dashboard Preview
+[Superstore_Dashboard_insights.pdf](https://github.com/user-attachments/files/23326222/Superstore_Dashboard_insights.pdf)
 
-<img width="1029" height="662" alt="Screenshot 2025-10-30 at 12 08 09" src="https://github.com/user-attachments/assets/3d8f82b6-898b-46dc-ac62-5f04d88710ed" />
 
 
-> The Excel dashboard highlights sales performance by region, category, and profit trends using interactive filters.
+> The Excel dashboard highlights sales performance by region, category, and profit trends using interactive filters, business insights & recommendations.
 
 ---
 
