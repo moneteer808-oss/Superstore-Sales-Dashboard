@@ -30,7 +30,7 @@ The **Superstore Sales Dashboard** provides insights into:
 | `Sample_Superstore.csv`     | Original dataset (raw data)                    |
 | `Superstore_Cleaned.csv`    | Cleaned dataset after preprocessing            |
 | `Superstore_Dashboard.xlsx` | Excel dashboard with slicers and visuals       |
-| `Superstore_Dashboard.pdf`  | PDF version of the dashboard for quick viewing |
+| `Superstore_Dashboard_insights.pdf`  | PDF version of the dashboard for quick viewing |
 | `.gitignore`                | Excludes temporary and system files            |
 
 ---
